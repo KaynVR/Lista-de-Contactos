@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "b3b2",
+      "username": "Antonio"
+    }
+  ],
+  "contactos": [
+    {
+      "id": "ed08",
+      "nombre": "dsada",
+      "numero": "123",
+      "user": "Antonio",
+      "checked": false
+    },
+    {
+      "id": "4f77",
+      "nombre": "dasdsa",
+      "numero": "123213",
+      "user": "Antonio",
+      "checked": false
+    },
+    {
+      "id": "ee06",
+      "nombre": "adasda",
+      "numero": "1231321",
+      "user": "Antonio",
+      "checked": false
+    },
+    {
+      "id": "2eff",
+      "nombre": "Luisa",
+      "numero": "312132",
+      "user": "Antonio",
+      "checked": false
+    },
+    {
+      "id": "020f",
+      "nombre": "Luisa",
+      "numero": "31232",
+      "user": "Antonio",
+      "checked": false
+    }
+  ]
+}
